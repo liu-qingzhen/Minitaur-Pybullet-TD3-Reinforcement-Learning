@@ -1,9 +1,7 @@
 This is the project of NUS ME5406
 
 
-----------------------------------------------------------------------------------
--                                  README                              -
-----------------------------------------------------------------------------------
+
 
 If this documentation is not clear enough, then you can watch the 5 videos in the 
 
